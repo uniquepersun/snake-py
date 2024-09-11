@@ -28,8 +28,9 @@ Avoid colliding with the walls or your own body, or it’s game over! :boom:
   
 ## Some screenshots for you :)
 - watch it in action!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/f86098fd-8c7a-490d-b5b8-33d8911aed90)
+    - [another!](https://github.com/user-attachments/assets/46ed4c34-61ba-46f9-a36c-54d94f3ec5aa)
+
 
 ## 🔗 contact me!!
 uniquepersun on :
